@@ -2,8 +2,8 @@ import { Container, Heading, SimpleGrid } from "@chakra-ui/react";
 import Section from "../components/section";
 import Layout from '../components/layouts/article'	
 import { WorkGridItem } from "../components/grid-item";
-import thumbMyProject from '../public/images/works/PenjualanSepatu.png'
-import thumbMyProject2 from '../public/images/works/SistemHelpdesk.png'
+import thumbMyProject from '../public/images/works/penjualan_sepatu.png'
+import thumbMyProject2 from '../public/images/works/sistem_helpdesk.png'
 
 const Works = () => {
     return (
