@@ -31,7 +31,7 @@ const Work = () => {
                     </ListItem>
                 </List>
 
-                <WorkImage src="/images/works/PenjualanSepatu.png" alt="shoesaleproject"/>
+                <WorkImage src="/images/works/penjualan_sepatu.png" alt="shoesaleproject"/>
             </Container>
         </Layout>
     )
