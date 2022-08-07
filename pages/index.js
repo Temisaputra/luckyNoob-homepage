@@ -28,7 +28,7 @@ return (
 		p={3} 
 		mb={6} 
 		align="center">
-			Hello, I&apos;m a Backend Web Developer based on Kedaung!
+			Hello, I&apos;m a Backend Web Developer based on Tangerang Selatan!
 	</Box>
 
 	<Box display={{ md:'flex'}}>

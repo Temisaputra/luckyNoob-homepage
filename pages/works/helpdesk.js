@@ -6,13 +6,13 @@ import Layout from '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title="Shopping Cart">
+        <Layout title="IT Helpdesk">
             <Container>
                 <Title>
-                    Shopping Cart Website <Badge>Java Web Programming Class</Badge>
+                    IT Helpdesk <Badge>Kuliah Kerja Praktek</Badge>
                 </Title>
                 <P>
-                    projek ini merupakan tugas akhir dari mata kuliah java web programming pada semester 5, dimana pada projek ini saya bersama kelompok saya yang berisi 5 orang membuat sebuah aplikasi penjualan sepatu  yang memiliki fitur shopping cart (keranjang belanja). Fitur shopping cart sendiri bertujuan agar semua barang yang disimpan oleh satu user dapat tertampung sebelum dimasukkan kedalam database.
+                    projek ini merupakan tugas dari kuliah kerja praktek pada semester 6, dimana pada projek ini saya bersama kelompok saya yang berisi 3 orang membuat sebuah sistem pengaduan kerusakan alat kantor.
                 </P>
                 <List ml={4} my={4}>
                     <ListItem>
@@ -27,12 +27,12 @@ const Work = () => {
                     </ListItem>
                     <ListItem>
                         <Meta>Stack</Meta>
-                        <span>Java, JSP, Html, CSS, Javascript</span>
+                        <span>PHP, Html, CSS, Javascript, Framework Codeigniter</span>
                     </ListItem>
                 </List>
 
-                <WorkImage src="/images/works/penjualan_sepatu.jpg" alt="shoesaleproject"/>
-                <WorkImage src="/images/works/penjualan_sepatu2.jpg" alt="shoesaleproject"/>
+                <WorkImage src="/images/works/sistem_helpdesk.jpg" alt="helpdesk"/>
+                <WorkImage src="/images/works/sistem_helpdesk2.jpg" alt="helpdesk"/>
             </Container>
         </Layout>
     )
