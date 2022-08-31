@@ -62,7 +62,7 @@ return (
 			About Me
 		</Heading>	
 		<Paragraph>
-			Nama saya Temi Duwi Saputra, mahasiswa tingkat akhir teknik informatika Universitas Budi Luhur Jakarta. Saya sangat bersemangat tentang dunia IT dan pemrograman. Saya seorang programmer energik yang terampil dalam PHP dan framework seperti Codeigniter. Dengan rasa ingin tahu yang kuat dan suka mempelajari sesuatu yang baru dalam hidup saya, terutama tentang IT dan bahasa pemrograman.
+			Nama saya Temi Duwi Saputra, fresh graduate teknik informatika Universitas Budi Luhur Jakarta. Saya sangat bersemangat tentang dunia IT dan pemrograman. Saya seorang programmer energik yang terampil dalam PHP dan framework seperti Codeigniter. Dengan rasa ingin tahu yang kuat dan suka mempelajari sesuatu yang baru dalam hidup saya, terutama tentang IT dan bahasa pemrograman.
 		</Paragraph>
 		<Box align="center" my={4}>
 			<NextLink href="/works">
